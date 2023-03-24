@@ -18,4 +18,8 @@ function areYouPlayingBanjo(name) { //calls the parameter 'name' into the functi
       {
         return name + " does not play banjo" //returns the name entered and " does not play banjo" if the name does not begin with the letter 'r'
       }
+<<<<<<< HEAD
   }
+=======
+  }
+>>>>>>> origin/main
