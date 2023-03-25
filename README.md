@@ -1,6 +1,5 @@
 # mullings2023a-codewars
-<<<<<<< HEAD
+These are my daily level 8 Codewars for my time in RC.
 Not too much on me, now.
 =======
-These are my daily level 8 Codewars for my time in RC.
->>>>>>> refs/remotes/origin/main
+*I had to recommit my first 7 codewars on 03/25/23
