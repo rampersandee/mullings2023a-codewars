@@ -3,7 +3,8 @@ RESILIENT CODERS
 =======
 <p>
   These are my daily level 8 Codewars for my time in RC.<br>
-  <em>Not too much on me, now.</em><br>
+  <div> </div>
+  <h6><em>Not too much on me, now.</em></h6><br>
 </p>
 
 <ol>
